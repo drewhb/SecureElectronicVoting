@@ -8,6 +8,9 @@ Date: 2022-04-05
 
 In this skill we implemented a secure voting system that allows votes to be secretly passed between fobs via IR, so that doesn't have to go through a network to cast its vote. Though a network will eventually be used when sending voting data to the database, the security risks can be otherwise mitigated through means described below. 
 
+## Video Demo
+[![VIDEO DEMO](./images/video_pt.jpg)](https://www.youtube.com/watch?v=7NL48_KedVY)
+
 ## Investigative Question
 
 ### Security Issues
